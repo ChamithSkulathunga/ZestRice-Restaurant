@@ -1,12 +1,67 @@
-# React + Vite
+ZestRice 🍚 - Restaurant Website
+A modern, responsive restaurant website built with React, Vite, and Tailwind CSS.
+ZestRice showcases restaurant services, promotions, and customer testimonials with smooth animations, dark mode, and a stylish "Back to Top" button.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+✨ Features
+Responsive design (mobile-friendly)
 
-Currently, two official plugins are available:
+Smooth scrolling navigation
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Dark mode toggle 🌙
 
-## Expanding the ESLint configuration
+Scroll animations using AOS
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Animated "Back to Top" button
+
+Organized and clean UI
+
+Fast build and development using Vite
+
+🛠️ Built With
+React
+
+Vite
+
+Tailwind CSS
+
+AOS Animation Library
+
+React Icons
+
+📂 Project Structure
+src/
+ ├── components/
+ │    ├── Navbar/
+ │    ├── Hero/
+ │    ├── Services/
+ │    ├── Banner/
+ │    ├── AppStore/
+ │    ├── Testimonial/
+ │    ├── Footer/
+ │    └── DarkMode/
+ ├── assets/
+ │    └── logo and images
+ ├── App.jsx
+ └── main.jsx
+
+ 
+🚀 Getting Started
+1. Clone the repository
+   
+git clone https://github.com/your-username/zestrice-restaurant.git
+cd zestrice-restaurant
+
+2. Install dependencies
+
+npm install
+
+3. Run the project locally
+
+npm run dev
+
+4. Build for production
+
+npm run build
+
+
+

@@ -1,3 +1,6 @@
+
+# Project Title
+
 ZestRice 🍚 - Restaurant Website
 A modern, responsive restaurant website built with React, Vite, and Tailwind CSS.
 ZestRice showcases restaurant services, promotions, and customer testimonials with smooth animations, dark mode, and a stylish "Back to Top" button.
@@ -62,6 +65,7 @@ npm run dev
 4. Build for production
 
 npm run build
+
 
 
 
